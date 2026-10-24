@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "first post!"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "ali",
+      "name": "reza",
+      "email": "reza@gmail.com"
+    },
+    {
+      "id": "2",
+      "username": "hasan",
+      "name": "hasan",
+      "email": "hasan@gmail.com"
+    },
+    {
+      "name": "samir",
+      "email": null,
+      "eamil": "s@g.c",
+      "id": "3BdElis3ERE"
+    },
+    {
+      "name": "zahra",
+      "email": null,
+      "eamil": "z@g.c",
+      "id": "Hqkf02rGdbQ"
+    },
+    {
+      "name": "hfeidfh",
+      "email": null,
+      "id": "xcI5iFdLbo8"
+    },
+    {
+      "name": "hfeidfh",
+      "email": null,
+      "id": "Tc1EIKS7jok"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
